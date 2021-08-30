@@ -49,9 +49,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "English",
-      ]
+        "English"
+    ]
     },
+
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -83,8 +84,8 @@
       "gpa": "",
       "courses": [
       ]
-  ]
-  
+    }
+],
   "volunteer": [
     {
       "organization": "808 Cleanups",
@@ -95,9 +96,10 @@
       "summary": "Cleaned up beaches on the leeward side of Oahu",
       "highlights": [
         "Picked up trash and other harmful pollutants that damaged the environment",
-      ]
+        "Helped a team pick up 681lbs of trash off of Nimitz Beach"
+    ]
     }
-  ]
+  ],
   "awards": [
     {
       "title": "Global Citizen Scholarships",
@@ -105,7 +107,7 @@
       "awarder": "Hawaii Tokai International College",
       "summary": "Scholarships awarded to students with high GPAs and have completed the minimum requirement of community service hours."
     }
-  ]
+  ],
   "references": [
     {
       "name": "Available upon request",
