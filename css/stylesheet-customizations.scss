@@ -1,14 +1,21 @@
 ---
+# Provide front matter so Jekyll processes this file as SASS.
 ---
 
+// Put your custom CSS here if you want to override the defaults.
+// Here are some common customizations for colors
+
+// Customize the background color
 body {
-  background: linear-gradient (to bottom right, #DDB8D7, #B8DDC8);
+  background-color: #bca0dc;
 }
 
+// Customize the menubar color
 .ui.menu {
-  background: #ADD8E5;
+  background: #7c5295;
 }
 
+// Customize the home page icon colors
 .icon-color {
- color: #02375B;
+  color: darken(#7c5295, 20%);
 }
