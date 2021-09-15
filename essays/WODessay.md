@@ -7,7 +7,7 @@ date: 2021-09-15
 
 <b>BrowserHistory1</b>
 
-This WOD took me exactly 13 minutes and 47 seconds to complete. Although I achieved Rx time, it was definitely not easy. Before our labs, I didn’t program in HTML for around 9 months. I remembered some main concepts such as <h1> to <h6> tags, headers, line breaks, and lists; however, I particularly had difficulty remembering linking to external and internal web pages. It took me several failed attempts on how to link web pages before I finally watched the screencast example. After that, it was a “oh, I remember!” moment. Through this WOD, I re-learned how to link to external and internal web pages. 
+This WOD took me exactly 13 minutes and 47 seconds to complete. Although I achieved Rx time, it was definitely not easy. Before our labs, I didn’t program in HTML for around 9 months. I remembered some main concepts such as headers, line breaks, and lists; however, I particularly had difficulty remembering linking to external and internal web pages. It took me several failed attempts on how to link web pages before I finally watched the screencast example. After that, it was a “oh, I remember!” moment. Through this WOD, I re-learned how to link to external and internal web pages. 
 
 My advice for my fellow classmates is to brush up on your HTML skills beforehand and to stay focused on one task at a time. 
 
