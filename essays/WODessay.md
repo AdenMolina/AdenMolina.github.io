@@ -1,17 +1,13 @@
 ---
-layout:essay
-type:essay
-title:E1: UI Basics Technical Essay
-date:2021-09-15
-labels:
- - ITM 352
- - HTML
- - CSS
+layout: essay
+type: essay
+title: E1: UI Basics Technical Essay
+date: 2021-09-15
 ---
 
 <b>BrowserHistory1</b>
 
-This WOD took me exactly 13 minutes and 47 seconds to complete. Although I achieved Rx time, it was definitely not easy. Before our labs, I didn’t program in HTML for around 9 months. I remembered some main concepts such as headers, line breaks, and lists; however, I particularly had difficulty remembering linking to external and internal web pages. It took me several failed attempts on how to link web pages before I finally watched the screencast example. After that, it was a “oh, I remember!” moment. Through this WOD, I re-learned how to link to external and internal web pages. 
+This WOD took me exactly 13 minutes and 47 seconds to complete. Although I achieved Rx time, it was definitely not easy. Before our labs, I didn’t program in HTML for around 9 months. I remembered some main concepts such as <h1> to <h6> tags, headers, line breaks, and lists; however, I particularly had difficulty remembering linking to external and internal web pages. It took me several failed attempts on how to link web pages before I finally watched the screencast example. After that, it was a “oh, I remember!” moment. Through this WOD, I re-learned how to link to external and internal web pages. 
 
 My advice for my fellow classmates is to brush up on your HTML skills beforehand and to stay focused on one task at a time. 
 
@@ -26,4 +22,3 @@ My advice to fellow classmates is to pay attention to the readings and again, pr
 This was by far the most difficult WOD for me. It took me a stressful10 minutes and 26 seconds to complete, which gives me Av time. Although I had remembered at least some major concepts in HTML, I completely forgot about divs and mains. With the first two WODs, I knew what to do; however, I was missing some pieces, but on this WOD, I didn’t even know where to start. Thankfully I watched the screencast and was able to complete the assignment. This was by far the most I’ve learned from a WOD up to this point; I learned how divs and mains can section a web page, and how to reference them in CSS. 
 
 As for advice, I think brushing up your knowledge is not a bad idea. It can save you a lot of time and stress. Overall, never giving up is key! For all three WODs, it took me around 2 to 4 attempts just to complete them. It can be easy to feel discouraged after being stuck and lost, but never giving up is the most important for success. 
-
