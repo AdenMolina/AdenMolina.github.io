@@ -1,12 +1,12 @@
 ---
-layout: essay
-type: essay
-title: E1: UI Basics Technical Essay
-date: 2021-09-15
+layout:essay
+type:essay
+title:E1: UI Basics Technical Essay
+date:2021-09-15
 labels:
-  - ITM 352
-  - HTML
-  - CSS
+ - ITM 352
+ - HTML
+ - CSS
 ---
 
 <b>BrowserHistory1</b>
