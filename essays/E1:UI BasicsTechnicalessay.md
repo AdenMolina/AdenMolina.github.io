@@ -1,4 +1,4 @@
---
+---
 layout: essay
 type: essay
 title: E1: UI Basics Technical Essay
@@ -7,7 +7,7 @@ labels:
   - ITM 352
   - HTML
   - CSS
---
+---
 
 <b>BrowserHistory1</b>
 
