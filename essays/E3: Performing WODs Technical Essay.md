@@ -1,15 +1,17 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: E3 Performing WODs Technical Essay
+date: 2021-09-30
 labels:
-  - Software Engineering
+  - Invoice1
   - Learning
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+My most recently completed WOD was Invoice1 and it was fairly difficult. I attempted it three times, with my final and best attempt being 19 minutes and 54 seconds, which barely gives me Rx time. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Invoice1 required that we create an invoice that contained five different products. And through the use of variables and expressions, compute values to get a total. 
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+The only thing that really worked well for me was my previous experience in programming in Javascript. Although it was three years ago, I vaguely remember certain details. Also, W3schools tutorials helped immensely. However, what slowed me down was not having a game plan or any kind of strategy; I kind of just went for it and encountered a lot of difficulties from not having a plan. 
+
+For my next WOD, I would definitely have some sort of strategy before I start, and try to read the directions more carefully. 
