@@ -1,8 +1,17 @@
-layout	type	title	date
-essay
-essay
-Why I am taking ITM 352
-2021-08-30
-I got my first taste of programming in my senior year of high school by enrolling in AP computer science. And to be honest, I wasn’t a huge fan. I was clueless the entire time, assignments never stopped, and I didn’t fully commit myself. I thought I would never program again. Fast forward a couple of years and I got another taste of programming while taking ICS 101. Initially, like before, I was indifferent; however, our last project is what reeled me in. We used vscode to create our own webpages, and I was enthralled in the process. This project taught me that programming is technical, a bit tedious, but is also creative and most importantly fun.
+---
+layout: essay
+type: essay
+title: E3: Performing WODs Technical Essay
+date: 2021-09-30
+labels:
+  - Invoice1
+  - ITM 352
+---
 
-I enrolled in ITM 352 for three main reasons: first, the world and business alike are becoming more technologically advanced, and as such, I want to ensure that I keep up. Second, everywhere on the internet I’ve read says that Accounting and MIS is a great combo. And Lastly, I wanna test myself, work hard, and have fun.
+My most recently completed WOD was Invoice1 and it was fairly difficult. I attempted it three times, with my final and best attempt being 19 minutes and 54 seconds, which barely gives me Rx time. 
+
+Invoice1 required that we create an invoice that contained five different products. And through the use of variables and expressions, compute values to get a total. 
+
+The only thing that really worked well for me was my previous experience in programming in Javascript. Although it was three years ago, I vaguely remember certain details. Also, W3schools tutorials helped immensely. However, what slowed me down was not having a game plan or any kind of strategy; I kind of just went for it and encountered a lot of difficulties from not having a plan. 
+
+For my next WOD, I would definitely have some sort of strategy before I start, and try to read the directions more carefully. 
